@@ -1,10 +1,10 @@
-# Sentiment-Analysis
+# Sentiment-Analysis 
 TABLE OF CONTENT
-Introduction
-Project Overview
-Dataset
-Intstallation
-Results
+Introduction|
+Project Overview|
+Dataset|
+Intstallation|
+Results|
 
 Introduction:
 This repository contains the code and resources for performing sentiment analysis on news articles related to the Dow Jones Industrial Average (DJIA). The goal of this project is to analyze the sentiment of news articles about DJIA and gain insights into how the sentiments affect the stock market.
